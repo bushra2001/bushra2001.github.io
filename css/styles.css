@@ -10869,6 +10869,14 @@ p.lead {
 .justified {
     text-align: justify;
 }
+.underline-text {
+  text-decoration: underline;
+  font-weight: bold;
+}
+.under-review {
+  color: #888; /* Adjust color for under-review status */
+}
+
 
 #sideNav {
   padding-left: 1rem;
