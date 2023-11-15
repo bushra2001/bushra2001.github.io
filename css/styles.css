@@ -10866,6 +10866,9 @@ p.lead {
   font-weight: 500;
   font-size: 1.5rem;
 }
+.justified {
+    text-align: justify;
+}
 
 #sideNav {
   padding-left: 1rem;
